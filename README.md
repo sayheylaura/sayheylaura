@@ -1,14 +1,14 @@
 ### Hi there 🤗
 
-My name is Laura (she/her) and I'm a frontend developer from Spain, currently working fully remote 🚀
+My name is Laura (she/her) and I'm a frontend developer from Spain, **currently working fully remote** 🚀
 
-After studying Psychology 🧠 I found another passion on web development 💻 and decided to pursue my career in this field 🤸‍♀️
+After studying Psychology 🧠 I found another passion on **web development** 💻 and decided to pursue my career in this field 🤸‍♀️
 
-Even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I used to play the violin in a music band called Hasta El Moño (loosely translatable as something like "fed up"), you can see our live performances on [YouTube](https://www.youtube.com/watch?v=93dUTN66ezQ) (plz don't be too hard on us, we were young and inexperienced 🙈).
+💪 I have now **more than 2.5 years of professional experience as a frontend developer** in a B2B SaaS company, growing from junior to developer within an international and agile working environment, in multiple cross-functional teams where **product-engineering collaboration** was paramount. 👀 I have been involved in a variety of tasks: migrating a legacy codebase from Backone to React, developing new features in **React**, maintaining and developing new components in an internal component gallery, performance tasks, PoCs, documentation...
 
-I also like writing and photography, you can check out [my Flickr profile](https://www.flickr.com/photos/lauus64/). Hopefully I will be hosting my creative work on a personal site soon enough 🙂. I would love to live where the mountains meet the sea 🗻🌊 with at least three cats 😻 and a garden to grow my own vegetables 🍓
+🙋‍♀️ At a more personal level, even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I like writing and photography, you can check out [my Flickr profile](https://www.flickr.com/photos/lauus64/), but hopefully I will be hosting my creative work on a personal site soon enough 🙂. I would love to live where the mountains meet the sea 🗻🌊 with at least three cats 😻 and a garden to grow my own vegetables 🍓
 
-Currently learning JavaScript, React, Sass, Webpack... Also interested in starting out with TypeScript, Redux and Node.js 🙌
+🌱 Currently learning JavaScript, React, Sass, Webpack... Also interested in starting out with TypeScript, Redux and Node.js 🙌
 
 <!--
 **lauraferrandof/lauraferrandof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
