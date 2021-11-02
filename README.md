@@ -4,7 +4,7 @@ My name is Laura (she/her) and I'm a frontend developer from Spain, currently wo
 
 After studying Psychology 🧠 I found another passion on web development 💻 and decided to pursue my career in this field 🤸‍♀️
 
-Even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I used to play violin in a music band called Hasta El Moño (loosely translatable as something like "fed up"), you can see our live performances on [YouTube](https://www.youtube.com/watch?v=93dUTN66ezQ) (plz don't be too hard on us, we were young and inexperienced 🙈).
+Even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I used to play the violin in a music band called Hasta El Moño (loosely translatable as something like "fed up"), you can see our live performances on [YouTube](https://www.youtube.com/watch?v=93dUTN66ezQ) (plz don't be too hard on us, we were young and inexperienced 🙈).
 
 I also like writing and photography, you can check out [my Flickr profile](https://www.flickr.com/photos/lauus64/). Hopefully I will be hosting my creative work on a personal site soon enough 🙂. I would love to live where the mountains meet the sea 🗻🌊 with at least three cats 😻 and a garden to grow my own vegetables 🍓
 
