@@ -8,7 +8,7 @@ After studying Psychology 🧠 I found another passion on **web development** �
 
 🙋‍♀️ At a more personal level, even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I like writing and photography 📷 which you can currently check out in [my Flickr profile](https://www.flickr.com/photos/lauus64/), but hopefully I will be hosting my creative work on a personal site soon enough 🙂. I would love to live where the mountains meet the sea 🗻🌊 with at least three cats 😻 and a garden to grow my own vegetables 🍓
 
-🌱 Currently learning about data structures and algorithms. Also interested in starting out with Node.js and learning more about design and design systems 🙌
+🌱 Currently learning about TypeScript and NextJS. Also interested in starting out with Node.js and learning more about design and design systems 🙌
 
 <!--
 **lauraferrandof/lauraferrandof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
