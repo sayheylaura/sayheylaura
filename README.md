@@ -8,16 +8,17 @@ After studying Psychology 🧠 I found another passion in **software development
 
 🙋‍♀️ At a more personal level, even though my ID card says I was born in Madrid, I'm [segoviana](https://en.wikipedia.org/wiki/Segovia) to the bone. I like writing and photography 📷 which you can currently check out in [my Flickr profile](https://www.flickr.com/photos/lauus64/), but I will be hosting my creative work on a personal site soon 🙂. I would love to live where the mountains meet the sea 🗻🌊 with at least three cats 🐈 and a garden to grow my own vegetables 🍓
 
-🌱 Currently learning Python 🐍 and deepening my accessibility knowledge 
+🌱 Currently learning Python 🐍 SQL/Postgres 🐘 and Vue ▽
 
-👩‍💻 My latest project: ✨ Tinybnb ✨ ([published site](https://sayheylaura.github.io/tinybnb/) | [repo](https://github.com/sayheylaura/tinybnb))
+👩‍💻 My latest project: ✨ Tinybnb ✨ ([published site](https://sayheylaura.github.io/tinybnb/) | [repo](https://github.com/sayheylaura/tinybnb)). I used it to learn Angular!
 
-📩 Some cool content creators I follow to stay up to date:
+📩 Some cool content creators and newsletters I follow to stay up to date:
   - [Syntax](https://syntax.fm/)
   - [Sara Soueidan](https://www.sarasoueidan.com/newsletter/)
   - [Josh W. Comeau](https://www.joshwcomeau.com/subscribe/)
   - [Bytes](https://bytes.dev/)
   - [The Index](https://piccalil.li/the-index/)
+  - [Web Weekly](https://webweekly.email/)
   
 Chek them out, they're really cool!
 
@@ -33,7 +34,7 @@ In the past few months I've been using [Cursor](https://cursor.com/). I mainly u
 - Implementing tests
 - Implementing solutions that I'm unsure of, in a step-by-step way, asking questions to learn, and questioning the generated code when I know something's off or missing
 
-In the past, I also used [ChatGPT](https://chatgpt.com/) for more general questions that are not so related to the project I'm working on, or when I need to plan a bigger task and I'm unsure about the steps to follow. This is helping me learn in a much better and efficient way than just googling. Lately I've switched to [Perplexity](https://www.perplexity.ai/) for this purpose.
+In the past, I also used [ChatGPT](https://chatgpt.com/) for more general questions that are not so related to the project I'm working on, or when I need to plan a bigger task and I'm unsure about the steps to follow. This is helping me learn in a much better and efficient way than just googling. Lately I've switched to [Perplexity](https://www.perplexity.ai/) for general information / resources searching, and [Claude](https://claude.ai/) for technical questions / planning.
 
 
 <!--
