@@ -10,7 +10,7 @@ After studying Psychology 🧠 I found another passion in **software development
 
 🌱 Currently learning Python 🐍 SQL/Postgres 🐘 and Vue ▽
 
-👩‍💻 My latest project: ✨ Tinybnb ✨ ([published site](https://sayheylaura.github.io/tinybnb/) | [repo](https://github.com/sayheylaura/tinybnb)). I used it to learn Angular!
+👩‍💻 My latest project: 🪴 [Plant Your Day](https://github.com/sayheylaura/plant-your-day) 🪴
 
 📩 Some cool content creators and newsletters I follow to stay up to date:
   - [Syntax](https://syntax.fm/)
